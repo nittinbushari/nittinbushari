@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nittinbushari
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laraval
+- 🌱 I’m currently learning ffmpeg 
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ...
 
