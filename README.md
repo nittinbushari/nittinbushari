@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nittinbushari
+- 👋 Hi, I’m Nittin Bushari
 - 👀 I’m interested in Coading
 - 🌱 I’m currently learning Vue.js 
 - 💞️ I’m looking to collaborate on Banckend projects
